@@ -1,16 +1,24 @@
-## Hi there 👋
+# Abubakir
 
-<!--
-**nask0123/nask0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Future Data Scientist from Kazakhstan 🇰🇿
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science graduate interested in data, machine learning and AI.
+
+Currently learning, building projects and improving my skills step by step.
+
+### Stack
+
+`Python` `SQL` `C++`
+`Pandas` `NumPy` `Scikit-learn`
+`PostgreSQL` `ClickHouse`
+`Power BI` `Grafana`
+`Git` `Jupyter` `VS Code`
+
+### Beyond code
+
+🎸 Guitar
+🇫🇷 French
+🎮 Games
+🌍 Travel
