@@ -23,3 +23,6 @@ Currently learning, building projects and improving my skills step by step.
 🇫🇷 French
 🎮 Games
 🌍 Travel
+
+ ### 📫Contact 
+Email: kasimkizyraikhan@gmail.com
