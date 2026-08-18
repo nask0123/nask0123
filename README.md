@@ -10,11 +10,12 @@ Currently learning, building projects and improving my skills step by step.
 
 ### Stack
 
-`Python` `SQL` `C++`
+`Python` `SQL` `JavaScript` `Node.js`
+`HTML` `CSS`
 `Pandas` `NumPy` `Scikit-learn`
 `PostgreSQL` `ClickHouse`
 `Power BI` `Grafana`
-`Git` `Jupyter` `VS Code`
+`Git` `GitHub` `Jupyter` `VS Code`
 
 ### Beyond code
 
