@@ -25,4 +25,4 @@ Currently learning, building projects and improving my skills step by step.
 🌍 Travel
 
  ### 📫Contact 
-Email: kasimkizyraikhan@gmail.com
+Email:
